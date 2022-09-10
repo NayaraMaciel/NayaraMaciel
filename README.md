@@ -6,4 +6,5 @@
 ![snake gif](https://github.com/NayaraMaciel/NayaraMaciel/blob/output/github-contribution-grid-snake.svg)
 
 
+![giphy](https://user-images.githubusercontent.com/112336156/189499730-81edbfbc-9da1-415b-8cb0-09eae60a6a55.gif)
 
