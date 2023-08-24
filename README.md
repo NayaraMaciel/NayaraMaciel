@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C71585&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Nayara+Maciel;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/vulcan-salute_1f596.png" width="60" height="60"/> Sou formada em Pedagogia, estudando programação em busca de uma transição de carreira.
+<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/vulcan-salute_1f596.png" width="60" height="60"/> Estudando programação em busca de uma transição de carreira.
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=nayaramaciel&theme=radical&mode=weekly" />
