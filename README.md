@@ -32,7 +32,7 @@
 
 
 #### Studying in this moment:
-
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas
 
 
 
